@@ -10,7 +10,7 @@ public class Bee1002 {
         double raio = sc.nextDouble();
         double area = 3.14159 * raio * raio;
 
-        System.out.printf("A=%.2f%n", area);
+        System.out.printf("A=%.4f%n", area);
 
         sc.close();
     }
