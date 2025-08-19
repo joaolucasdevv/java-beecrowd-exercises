@@ -7,6 +7,11 @@ public class Bee1001 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        int A = sc.nextInt();
+        int B = sc.nextInt();
+        int X = A + B;
+
+        System.out.println("X = " + X);
 
         sc.close();
     }
