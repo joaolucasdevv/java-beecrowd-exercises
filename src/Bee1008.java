@@ -14,7 +14,7 @@ public class Bee1008 {
         double salary = (double) hour * amont;
 
         System.out.println("NUMBER = " + number);
-        System.out.printf("SALARY = %.2f%n", salary);
+        System.out.printf("SALARY = U$ %.2f%n", salary);
 
         sc.close();
     }
