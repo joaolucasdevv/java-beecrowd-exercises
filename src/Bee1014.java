@@ -10,7 +10,9 @@ public class Bee1014 {
         int km = sc.nextInt();
         double fuel = sc.nextDouble();
 
+        double consumo = km / fuel;
 
+        System.out.printf("%.3f km/l%n", consumo);
 
         sc.close();
     }
