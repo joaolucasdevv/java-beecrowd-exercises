@@ -13,7 +13,7 @@ public class Bee1012 {
 
         double triangulo = a * c / 2;
         double cirulo = 3.141159 * Math.pow(c, 2);
-        double trapezio = a + b * c;
+        double trapezio = (a + b) * c / 2;
         double quadrado = Math.pow(b, 2);
         double retangulo = a * b;
 
