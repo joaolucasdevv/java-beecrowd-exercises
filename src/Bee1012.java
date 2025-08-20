@@ -11,6 +11,7 @@ public class Bee1012 {
         double b = sc.nextDouble();
         double c = sc.nextDouble();
 
+        double triangulo = a * c / 2;
 
         sc.close();
     }
