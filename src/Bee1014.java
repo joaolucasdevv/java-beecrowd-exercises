@@ -7,6 +7,8 @@ public class Bee1014 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        int km = sc.nextInt();
+        double fuel = sc.nextDouble();
 
 
 
