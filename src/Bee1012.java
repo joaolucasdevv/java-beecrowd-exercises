@@ -7,6 +7,9 @@ public class Bee1012 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        double a = sc.nextDouble();
+        double b = sc.nextDouble();
+        double c = sc.nextDouble();
 
 
         sc.close();
