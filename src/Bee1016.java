@@ -7,7 +7,11 @@ public class Bee1016 {
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
+        int km = sc.nextInt();
 
+        int distance = km * 2;
+
+        System.out.println(distance + " minutos");
 
         sc.close();
     }
